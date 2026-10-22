@@ -1,0 +1,14 @@
+<svg width="900" height="12" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="divGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c8a45a;stop-opacity:0"/>
+      <stop offset="15%" style="stop-color:#c8a45a;stop-opacity:0.4"/>
+      <stop offset="50%" style="stop-color:#e8c96a;stop-opacity:0.6"/>
+      <stop offset="85%" style="stop-color:#c8a45a;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#c8a45a;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="6" x2="900" y2="6" stroke="url(#divGold)" stroke-width="1"/>
+  <!-- Center diamond -->
+  <rect x="446" y="2" width="8" height="8" rx="1" fill="#c8a45a" opacity="0.5" transform="rotate(45, 450, 6)"/>
+</svg>
