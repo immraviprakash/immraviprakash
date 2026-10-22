@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Ravi Prakash K — Full-Stack Developer &amp; AI Systems" width="100%"/>
+  <img src="https://raw.githubusercontent.com/immraviprakash/immraviprakash/main/assets/header.svg" alt="Ravi Prakash K — Full-Stack Developer &amp; AI Systems" width="100%"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ Built production Android applications with Kotlin, Jetpack Compose, and Firebase
 
 <br/>
 
-<img src="./assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/immraviprakash/immraviprakash/main/assets/divider.svg" alt="" width="100%"/>
 
 <br/>
 
@@ -110,7 +110,7 @@ Built production Android applications with Kotlin, Jetpack Compose, and Firebase
 
 <br/>
 
-<img src="./assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/immraviprakash/immraviprakash/main/assets/divider.svg" alt="" width="100%"/>
 
 <br/>
 
@@ -169,7 +169,7 @@ Adaptive health education portal featuring an **Adult Mode** for detailed pharma
 
 <br/>
 
-<img src="./assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/immraviprakash/immraviprakash/main/assets/divider.svg" alt="" width="100%"/>
 
 <br/>
 
@@ -207,7 +207,7 @@ Adaptive health education portal featuring an **Adult Mode** for detailed pharma
 
 <br/>
 
-<img src="./assets/footer.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/immraviprakash/immraviprakash/main/assets/footer.svg" alt="" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=immraviprakash&amp;style=flat-square&amp;color=c8a45a&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
