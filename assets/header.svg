@@ -50,16 +50,14 @@
     <animate attributeName="height" values="50;60;50" dur="3s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- "Hey, I'm" pre-text -->
-  <text x="80" y="82" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="500" fill="#c8a45a" letter-spacing="3" opacity="0.9">PORTFOLIO &amp; LAB // RAVI PRAKASH K</text>
+  <!-- Pre-text -->
+  <text x="80" y="82" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14.5" font-weight="600" fill="#c8a45a" letter-spacing="3" opacity="0.9">PORTFOLIO &amp; LAB // RAVI PRAKASH K</text>
 
   <!-- Name -->
   <text x="80" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700" fill="#f0ebe0" letter-spacing="-1">Ravi Prakash K</text>
   
-  <!-- Animated role text -->
-  <text x="80" y="168" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16.5" fill="#a09880" letter-spacing="0.8">
-    Full-Stack Developer · Android · AI-Powered Products
-  </text>
+  <!-- Role text -->
+  <text x="80" y="168" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16.5" fill="#a09880" letter-spacing="0.8">Full-Stack Developer · Android · AI-Powered Products</text>
 
   <!-- Blinking cursor -->
   <rect x="525" y="153" width="2" height="18" fill="#c8a45a">
@@ -74,7 +72,7 @@
 
   <!-- Right side floating code symbols -->
   <g opacity="0.14" fill="#c8a45a">
-    <text x="715" y="80" font-family="'Courier New', monospace" font-size="14">{'<'}/{'>'}</text>
+    <text x="715" y="80" font-family="'Courier New', monospace" font-size="14">&lt;/&gt;</text>
     <text x="750" y="110" font-family="'Courier New', monospace" font-size="12">fn()</text>
     <text x="705" y="140" font-family="'Courier New', monospace" font-size="13">λ</text>
     <text x="765" y="165" font-family="'Courier New', monospace" font-size="11">0x1A</text>

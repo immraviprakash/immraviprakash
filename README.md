@@ -181,7 +181,7 @@ Adaptive health education portal featuring an **Adult Mode** for detailed pharma
 
 <p align="center">
   <a href="https://github.com/immraviprakash">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=immraviprakash&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d0d0d&amp;title_color=c8a45a&amp;icon_color=c8a45a&amp;text_color=a09880&amp;ring_color=c8a45a&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=immraviprakash&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d0d0d&amp;title_color=c8a45a&amp;icon_color=c8a45a&amp;text_color=a09880&amp;ring_color=c8a45a" alt="GitHub Stats"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/immraviprakash">
